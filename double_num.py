@@ -15,10 +15,7 @@ def main():
 
     print("Hello")
     print("changed")
-
-
-    print("hello")
+    print("changed new")
 
 
 main()
-
