@@ -13,5 +13,7 @@ def main():
         except ValueError:
             pass
 
+    print("Hello")
+
 
 main()
